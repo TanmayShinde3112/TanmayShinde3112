@@ -1,3 +1,26 @@
+<!-- Profile README -->
+
+<h1 align="center">Hi 👋, I'm Tanmay Shinde</h1>
+
+<p align="center">
+  B.Tech CSE Student at Sanjivani College of Engineering, Kopargaon
+</p>
+
+<p align="center">
+  IoT • Full-Stack • Machine Learning | Building real-world systems
+</p>
+
+---
+
+## 👨‍💻 Personal Profile
+
+* 🎓 **Education:** B.Tech in Computer Science Engineering
+* 🏫 **College:** Sanjivani College of Engineering, Kopargaon
+* 📍 **Location:** Ahilyanagar Maharashtra, India
+* 💼 **Career Goal:** Software Engineer (IoT / Backend / Cloud)
+* 🎯 **Current Focus:** Building real-world projects and improving problem-solving skills
+
+---
 
 ## 🚀 About Me
 
@@ -28,59 +51,54 @@ Git, GitHub, VS Code, Arduino, ESP32
 
 ### 🌱 IIOT-Based Smart Seed Monitoring System
 
-* Built an IoT-based system using **ESP32 and sensors** to monitor environmental conditions
-* Integrated backend + dashboard for **real-time data visualization**
-* Applied ML concepts for **insight generation and prediction**
-  👉 [https://github.com/TanmayShinde3112/IIOT-Based-Smart-Seed-Monitoring-System](https://github.com/TanmayShinde3112/IIOT-Based-Smart-Seed-Monitoring-System)
+* Built an IoT-based system using **ESP32 and sensors**
+* Real-time data visualization with dashboard
+* Applied ML for insights and prediction
+  👉 https://github.com/TanmayShinde3112/IIOT-Based-Smart-Seed-Monitoring-System
 
 ---
 
 ### 🎓 AI-Based Student Performance System
 
-* Full-stack system with **authentication and dashboard analytics**
-* Used **SQLite + backend APIs** for structured data handling
-* Predicts student performance using ML models
-  👉 [https://github.com/TanmayShinde3112/AI-Based-Student-Performance-System](https://github.com/TanmayShinde3112/AI-Based-Student-Performance-System)
+* Full-stack system with authentication and analytics
+* Backend with SQLite + APIs
+* ML-based performance prediction
+  👉 https://github.com/TanmayShinde3112/AI-Based-Student-Performance-System
 
 ---
 
 ### 🚦 Traffic Violation ML Dashboard
 
-* Built analytics dashboard with **model comparison and visualization**
-* Identified **risk zones using data analysis**
-* Generated **report-ready charts and insights**
-  👉 [https://github.com/TanmayShinde3112/traffic-violation-ml](https://github.com/TanmayShinde3112/traffic-violation-ml)
+* Data analytics + visualization dashboard
+* Risk zone identification using ML
+  👉 https://github.com/TanmayShinde3112/traffic-violation-ml
 
 ---
 
 ### 🛒 StreetVendor Platform
 
-* Web-based project focused on **social impact for street vendors**
-* Designed user-facing interface and backend logic
-  👉 [https://github.com/TanmayShinde3112/StreetVendor](https://github.com/TanmayShinde3112/StreetVendor)
+* Social-impact web platform
+  👉 https://github.com/TanmayShinde3112/StreetVendor
 
 ---
 
 ### 💻 Data Structures (C++)
 
-* Collection of **DSA implementations and problem-solving approaches**
-  👉 [https://github.com/TanmayShinde3112/DSPS](https://github.com/TanmayShinde3112/DSPS)
+👉 https://github.com/TanmayShinde3112/DSPS
 
 ---
 
 ### 🌐 Web Technology Lab
 
-* Multiple **frontend mini-projects and experiments**
-  👉 [https://github.com/TanmayShinde3112/WTL](https://github.com/TanmayShinde3112/WTL)
+👉 https://github.com/TanmayShinde3112/WTL
 
 ---
 
 
-
 ## 📫 Connect With Me
 
-* 🔗 GitHub: [https://github.com/TanmayShinde3112](https://github.com/TanmayShinde3112)
-* 💼 LinkedIn: [https://www.linkedin.com/in/tanmayshinde31/](https://www.linkedin.com/in/tanmayshinde31/)
+* 🔗 GitHub: https://github.com/TanmayShinde3112
+* 💼 LinkedIn: https://www.linkedin.com/in/tanmayshinde31/
 * 📧 Email: [tanmayshinde311204@gmail.com](mailto:tanmayshinde311204@gmail.com)
 
 ---
