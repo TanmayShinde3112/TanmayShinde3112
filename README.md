@@ -75,9 +75,7 @@ Git, GitHub, VS Code, Arduino, ESP32
 
 ---
 
-## 📊 GitHub Stats
 
----
 
 ## 📫 Connect With Me
 
